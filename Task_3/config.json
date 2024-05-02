@@ -1,0 +1,8 @@
+{
+  "FileName": "file.txt",
+  "Target": "english",
+  "Out": "file",
+  "Sign count": 4000,
+  "Word count": 500,
+  "Sentence count": 100
+}

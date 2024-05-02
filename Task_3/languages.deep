@@ -1,0 +1,324 @@
+  N  Languages                           ISO-639 code    Text
+---  ----------------------------------  --------------  ------------------
+  1  acehnese                            ace-ID          Invalid parameters
+  2  afrikaans                           af-ZA           Invalid parameters
+  3  akan                                ak-GH           Invalid parameters
+  4  albanian                            sq-AL           Invalid parameters
+  5  amharic                             am-ET           Invalid parameters
+  6  antigua and barbuda creole english  aig-AG          Invalid parameters
+  7  arabic                              ar-SA           Invalid parameters
+  8  arabic egyptian                     ar-EG           Invalid parameters
+  9  aragonese                           an-ES           Invalid parameters
+ 10  armenian                            hy-AM           Invalid parameters
+ 11  assamese                            as-IN           Invalid parameters
+ 12  asturian                            ast-ES          Invalid parameters
+ 13  austrian german                     de-AT           Invalid parameters
+ 14  awadhi                              awa-IN          Invalid parameters
+ 15  ayacucho quechua                    quy-PE          Invalid parameters
+ 16  azerbaijani                         az-AZ           Invalid parameters
+ 17  bahamas creole english              bah-BS          Invalid parameters
+ 18  bajan                               bjs-BB          Invalid parameters
+ 19  balinese                            ban-ID          Invalid parameters
+ 20  balkan gipsy                        rm-RO           Invalid parameters
+ 21  bambara                             bm-ML           Invalid parameters
+ 22  banjar                              bjn-ID          Invalid parameters
+ 23  bashkir                             ba-RU           Invalid parameters
+ 24  basque                              eu-ES           Invalid parameters
+ 25  belarusian                          be-BY           Invalid parameters
+ 26  belgian french                      fr-BE           Invalid parameters
+ 27  bemba                               bem-ZM          Invalid parameters
+ 28  bengali                             bn-IN           Invalid parameters
+ 29  bhojpuri                            bho-IN          Invalid parameters
+ 30  bihari                              bh-IN           Invalid parameters
+ 31  bislama                             bi-VU           Invalid parameters
+ 32  borana                              gax-KE          Invalid parameters
+ 33  bosnian                             bs-BA           Invalid parameters
+ 34  bosnian (cyrillic)                  bs-Cyrl-BA      Invalid parameters
+ 35  breton                              br-FR           Invalid parameters
+ 36  buginese                            bug-ID          Invalid parameters
+ 37  bulgarian                           bg-BG           Invalid parameters
+ 38  burmese                             my-MM           Invalid parameters
+ 39  catalan                             ca-ES           Invalid parameters
+ 40  catalan valencian                   cav-ES          Invalid parameters
+ 41  cebuano                             ceb-PH          Invalid parameters
+ 42  central atlas tamazight             tzm-MA          Invalid parameters
+ 43  central aymara                      ayr-BO          Invalid parameters
+ 44  central kanuri (latin script)       knc-NG          Invalid parameters
+ 45  chadian arabic                      shu-TD          Invalid parameters
+ 46  chamorro                            ch-GU           Invalid parameters
+ 47  cherokee                            chr-US          Invalid parameters
+ 48  chhattisgarhi                       hne-IN          Invalid parameters
+ 49  chinese simplified                  zh-CN           Invalid parameters
+ 50  chinese trad. (hong kong)           zh-HK           Invalid parameters
+ 51  chinese traditional                 zh-TW           Invalid parameters
+ 52  chinese traditional macau           zh-MO           Invalid parameters
+ 53  chittagonian                        ctg-BD          Invalid parameters
+ 54  chokwe                              cjk-AO          Invalid parameters
+ 55  classical greek                     grc-GR          Invalid parameters
+ 56  comorian ngazidja                   zdj-KM          Invalid parameters
+ 57  coptic                              cop-EG          Invalid parameters
+ 58  crimean tatar                       crh-RU          Invalid parameters
+ 59  crioulo upper guinea                pov-GW          Invalid parameters
+ 60  croatian                            hr-HR           Invalid parameters
+ 61  czech                               cs-CZ           Invalid parameters
+ 62  danish                              da-DK           Invalid parameters
+ 63  dari                                prs-AF          Invalid parameters
+ 64  dimli                               diq-TR          Invalid parameters
+ 65  dutch                               nl-NL           Invalid parameters
+ 66  dyula                               dyu-CI          Invalid parameters
+ 67  dzongkha                            dz-BT           Invalid parameters
+ 68  eastern yiddish                     ydd-US          Invalid parameters
+ 69  emakhuwa                            vmw-MZ          Invalid parameters
+ 70  english                             en-GB           Invalid parameters
+ 71  english australia                   en-AU           Invalid parameters
+ 72  english canada                      en-CA           Invalid parameters
+ 73  english india                       en-IN           Invalid parameters
+ 74  english ireland                     en-IE           Invalid parameters
+ 75  english new zealand                 en-NZ           Invalid parameters
+ 76  english singapore                   en-SG           Invalid parameters
+ 77  english south africa                en-ZA           Invalid parameters
+ 78  english us                          en-US           Invalid parameters
+ 79  esperanto                           eo-EU           Invalid parameters
+ 80  estonian                            et-EE           Invalid parameters
+ 81  ewe                                 ee-GH           Invalid parameters
+ 82  fanagalo                            fn-FNG          Invalid parameters
+ 83  faroese                             fo-FO           Invalid parameters
+ 84  fijian                              fj-FJ           Invalid parameters
+ 85  filipino                            fil-PH          Invalid parameters
+ 86  finnish                             fi-FI           Invalid parameters
+ 87  flemish                             nl-BE           Invalid parameters
+ 88  fon                                 fon-BJ          Invalid parameters
+ 89  french                              fr-FR           Invalid parameters
+ 90  french canada                       fr-CA           Invalid parameters
+ 91  french swiss                        fr-CH           Invalid parameters
+ 92  friulian                            fur-IT          Invalid parameters
+ 93  fula                                ff-FUL          Invalid parameters
+ 94  galician                            gl-ES           Invalid parameters
+ 95  gamargu                             mfi-NG          Invalid parameters
+ 96  garo                                grt-IN          Invalid parameters
+ 97  georgian                            ka-GE           Invalid parameters
+ 98  german                              de-DE           Invalid parameters
+ 99  gilbertese                          gil-KI          Invalid parameters
+100  glavda                              glw-NG          Invalid parameters
+101  greek                               el-GR           Invalid parameters
+102  grenadian creole english            gcl-GD          Invalid parameters
+103  guarani                             gn-PY           Invalid parameters
+104  gujarati                            gu-IN           Invalid parameters
+105  guyanese creole english             gyn-GY          Invalid parameters
+106  haitian creole french               ht-HT           Invalid parameters
+107  halh mongolian                      khk-MN          Invalid parameters
+108  hausa                               ha-NE           Invalid parameters
+109  hawaiian                            haw-US          Invalid parameters
+110  hebrew                              he-IL           Invalid parameters
+111  higi                                hig-NG          Invalid parameters
+112  hiligaynon                          hil-PH          Invalid parameters
+113  hill mari                           mrj-RU          Invalid parameters
+114  hindi                               hi-IN           Invalid parameters
+115  hmong                               hmn-CN          Invalid parameters
+116  hungarian                           hu-HU           Invalid parameters
+117  icelandic                           is-IS           Invalid parameters
+118  igbo ibo                            ibo-NG          Invalid parameters
+119  igbo ig                             ig-NG           Invalid parameters
+120  ilocano                             ilo-PH          Invalid parameters
+121  indonesian                          id-ID           Invalid parameters
+122  inuktitut greenlandic               kl-GL           Invalid parameters
+123  irish gaelic                        ga-IE           Invalid parameters
+124  italian                             it-IT           Invalid parameters
+125  italian swiss                       it-CH           Invalid parameters
+126  jamaican creole english             jam-JM          Invalid parameters
+127  japanese                            ja-JP           Invalid parameters
+128  javanese                            jv-ID           Invalid parameters
+129  jingpho                             kac-MM          Invalid parameters
+130  k'iche'                             quc-GT          Invalid parameters
+131  kabiy                              kbp-TG          Invalid parameters
+132  kabuverdianu                        kea-CV          Invalid parameters
+133  kabylian                            kab-DZ          Invalid parameters
+134  kalenjin                            kln-KE          Invalid parameters
+135  kamba                               kam-KE          Invalid parameters
+136  kannada                             kn-IN           Invalid parameters
+137  kanuri                              kr-KAU          Invalid parameters
+138  karen                               kar-MM          Invalid parameters
+139  kashmiri (devanagari script)        ks-IN           Invalid parameters
+140  kashmiri (arabic script)            kas-IN          Invalid parameters
+141  kazakh                              kk-KZ           Invalid parameters
+142  khasi                               kha-IN          Invalid parameters
+143  khmer                               km-KH           Invalid parameters
+144  kikuyu kik                          kik-KE          Invalid parameters
+145  kikuyu ki                           ki-KE           Invalid parameters
+146  kimbundu                            kmb-AO          Invalid parameters
+147  kinyarwanda                         rw-RW           Invalid parameters
+148  kirundi                             rn-BI           Invalid parameters
+149  kisii                               guz-KE          Invalid parameters
+150  kongo                               kg-CG           Invalid parameters
+151  konkani                             kok-IN          Invalid parameters
+152  korean                              ko-KR           Invalid parameters
+153  northern kurdish                    kmr-TR          Invalid parameters
+154  kurdish sorani                      ckb-IQ          Invalid parameters
+155  kyrgyz                              ky-KG           Invalid parameters
+156  lao                                 lo-LA           Invalid parameters
+157  latgalian                           ltg-LV          Invalid parameters
+158  latin                               la-XN           Invalid parameters
+159  latvian                             lv-LV           Invalid parameters
+160  ligurian                            lij-IT          Invalid parameters
+161  limburgish                          li-NL           Invalid parameters
+162  lingala                             ln-LIN          Invalid parameters
+163  lithuanian                          lt-LT           Invalid parameters
+164  lombard                             lmo-IT          Invalid parameters
+165  luba-kasai                          lua-CD          Invalid parameters
+166  luganda                             lg-UG           Invalid parameters
+167  luhya                               luy-KE          Invalid parameters
+168  luo                                 luo-KE          Invalid parameters
+169  luxembourgish                       lb-LU           Invalid parameters
+170  maa                                 mas-KE          Invalid parameters
+171  macedonian                          mk-MK           Invalid parameters
+172  magahi                              mag-IN          Invalid parameters
+173  maithili                            mai-IN          Invalid parameters
+174  malagasy                            mg-MG           Invalid parameters
+175  malay                               ms-MY           Invalid parameters
+176  malayalam                           ml-IN           Invalid parameters
+177  maldivian                           dv-MV           Invalid parameters
+178  maltese                             mt-MT           Invalid parameters
+179  mandara                             mfi-CM          Invalid parameters
+180  manipuri                            mni-IN          Invalid parameters
+181  manx gaelic                         gv-IM           Invalid parameters
+182  maori                               mi-NZ           Invalid parameters
+183  marathi                             mr-IN           Invalid parameters
+184  margi                               mrt-NG          Invalid parameters
+185  mari                                mhr-RU          Invalid parameters
+186  marshallese                         mh-MH           Invalid parameters
+187  mende                               men-SL          Invalid parameters
+188  meru                                mer-KE          Invalid parameters
+189  mijikenda                           nyf-KE          Invalid parameters
+190  minangkabau                         min-ID          Invalid parameters
+191  mizo                                lus-IN          Invalid parameters
+192  mongolian                           mn-MN           Invalid parameters
+193  montenegrin                         sr-ME           Invalid parameters
+194  morisyen                            mfe-MU          Invalid parameters
+195  moroccan arabic                     ar-MA           Invalid parameters
+196  mossi                               mos-BF          Invalid parameters
+197  ndau                                ndc-MZ          Invalid parameters
+198  ndebele                             nr-ZA           Invalid parameters
+199  nepali                              ne-NP           Invalid parameters
+200  nigerian fulfulde                   fuv-NG          Invalid parameters
+201  niuean                              niu-NU          Invalid parameters
+202  north azerbaijani                   azj-AZ          Invalid parameters
+203  sesotho                             nso-ZA          Invalid parameters
+204  northern uzbek                      uzn-UZ          Invalid parameters
+205  norwegian bokml                    nb-NO           Invalid parameters
+206  norwegian nynorsk                   nn-NO           Invalid parameters
+207  nuer                                nus-SS          Invalid parameters
+208  nyanja                              ny-MW           Invalid parameters
+209  occitan                             oc-FR           Invalid parameters
+210  occitan aran                        oc-ES           Invalid parameters
+211  odia                                or-IN           Invalid parameters
+212  oriya                               ory-IN          Invalid parameters
+213  urdu                                ur-PK           Invalid parameters
+214  palauan                             pau-PW          Invalid parameters
+215  pali                                pi-IN           Invalid parameters
+216  pangasinan                          pag-PH          Invalid parameters
+217  papiamentu                          pap-CW          Invalid parameters
+218  pashto                              ps-PK           Invalid parameters
+219  persian                             fa-IR           Invalid parameters
+220  pijin                               pis-SB          Invalid parameters
+221  plateau malagasy                    plt-MG          Invalid parameters
+222  polish                              pl-PL           Invalid parameters
+223  portuguese                          pt-PT           Invalid parameters
+224  portuguese brazil                   pt-BR           Invalid parameters
+225  potawatomi                          pot-US          Invalid parameters
+226  punjabi                             pa-IN           Invalid parameters
+227  punjabi (pakistan)                  pnb-PK          Invalid parameters
+228  quechua                             qu-PE           Invalid parameters
+229  rohingya                            rhg-MM          Invalid parameters
+230  rohingyalish                        rhl-MM          Invalid parameters
+231  romanian                            ro-RO           Invalid parameters
+232  romansh                             roh-CH          Invalid parameters
+233  rundi                               run-BI          Invalid parameters
+234  russian                             ru-RU           Invalid parameters
+235  saint lucian creole french          acf-LC          Invalid parameters
+236  samoan                              sm-WS           Invalid parameters
+237  sango                               sg-CF           Invalid parameters
+238  sanskrit                            sa-IN           Invalid parameters
+239  santali                             sat-IN          Invalid parameters
+240  sardinian                           sc-IT           Invalid parameters
+241  scots gaelic                        gd-GB           Invalid parameters
+242  sena                                seh-ZW          Invalid parameters
+243  serbian cyrillic                    sr-Cyrl-RS      Invalid parameters
+244  serbian latin                       sr-Latn-RS      Invalid parameters
+245  seselwa creole french               crs-SC          Invalid parameters
+246  setswana (south africa)             tn-ZA           Invalid parameters
+247  shan                                shn-MM          Invalid parameters
+248  shona                               sn-ZW           Invalid parameters
+249  sicilian                            scn-IT          Invalid parameters
+250  silesian                            szl-PL          Invalid parameters
+251  sindhi snd                          snd-PK          Invalid parameters
+252  sindhi sd                           sd-PK           Invalid parameters
+253  sinhala                             si-LK           Invalid parameters
+254  slovak                              sk-SK           Invalid parameters
+255  slovenian                           sl-SI           Invalid parameters
+256  somali                              so-SO           Invalid parameters
+257  sotho southern                      st-LS           Invalid parameters
+258  south azerbaijani                   azb-AZ          Invalid parameters
+259  southern pashto                     pbt-PK          Invalid parameters
+260  southwestern dinka                  dik-SS          Invalid parameters
+261  spanish                             es-ES           Invalid parameters
+262  spanish argentina                   es-AR           Invalid parameters
+263  spanish colombia                    es-CO           Invalid parameters
+264  spanish latin america               es-419          Invalid parameters
+265  spanish mexico                      es-MX           Invalid parameters
+266  spanish united states               es-US           Invalid parameters
+267  sranan tongo                        srn-SR          Invalid parameters
+268  standard latvian                    lvs-LV          Invalid parameters
+269  standard malay                      zsm-MY          Invalid parameters
+270  sundanese                           su-ID           Invalid parameters
+271  swahili                             sw-KE           Invalid parameters
+272  swati                               ss-SZ           Invalid parameters
+273  swedish                             sv-SE           Invalid parameters
+274  swiss german                        de-CH           Invalid parameters
+275  syriac (aramaic)                    syc-TR          Invalid parameters
+276  tagalog                             tl-PH           Invalid parameters
+277  tahitian                            ty-PF           Invalid parameters
+278  tajik                               tg-TJ           Invalid parameters
+279  tamashek (tuareg)                   tmh-DZ          Invalid parameters
+280  tamasheq                            taq-ML          Invalid parameters
+281  tamil india                         ta-IN           Invalid parameters
+282  tamil sri lanka                     ta-LK           Invalid parameters
+283  taroko                              trv-TW          Invalid parameters
+284  tatar                               tt-RU           Invalid parameters
+285  telugu                              te-IN           Invalid parameters
+286  tetum                               tet-TL          Invalid parameters
+287  thai                                th-TH           Invalid parameters
+288  tibetan                             bo-CN           Invalid parameters
+289  tigrinya                            ti-ET           Invalid parameters
+290  tok pisin                           tpi-PG          Invalid parameters
+291  tokelauan                           tkl-TK          Invalid parameters
+292  tongan                              to-TO           Invalid parameters
+293  tosk albanian                       als-AL          Invalid parameters
+294  tsonga                              ts-ZA           Invalid parameters
+295  tswa                                tsc-MZ          Invalid parameters
+296  tswana                              tn-BW           Invalid parameters
+297  tumbuka                             tum-MW          Invalid parameters
+298  turkish                             tr-TR           Invalid parameters
+299  turkmen                             tk-TM           Invalid parameters
+300  tuvaluan                            tvl-TV          Invalid parameters
+301  twi                                 tw-GH           Invalid parameters
+302  udmurt                              udm-RU          Invalid parameters
+303  ukrainian                           uk-UA           Invalid parameters
+304  uma                                 ppk-ID          Invalid parameters
+305  umbundu                             umb-AO          Invalid parameters
+306  uyghur uig                          uig-CN          Invalid parameters
+307  uyghur ug                           ug-CN           Invalid parameters
+308  uzbek                               uz-UZ           Invalid parameters
+309  venetian                            vec-IT          Invalid parameters
+310  vietnamese                          vi-VN           Invalid parameters
+311  vincentian creole english           svc-VC          Invalid parameters
+312  virgin islands creole english       vic-US          Invalid parameters
+313  wallisian                           wls-WF          Invalid parameters
+314  waray (philippines)                 war-PH          Invalid parameters
+315  welsh                               cy-GB           Invalid parameters
+316  west central oromo                  gaz-ET          Invalid parameters
+317  western persian                     pes-IR          Invalid parameters
+318  wolof                               wo-SN           Invalid parameters
+319  xhosa                               xh-ZA           Invalid parameters
+320  yiddish                             yi-YD           Invalid parameters
+321  yoruba                              yo-NG           Invalid parameters
+322  zulu                                zu-ZA           Invalid parameters
